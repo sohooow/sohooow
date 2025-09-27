@@ -1,8 +1,6 @@
 ## Hi, I'm Sonia 👋
 
 **Software Engineer / DevOps @Orange** | Studying at **Télécom SudParis**
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b74e5e5-4464-4d7f-b149-966923e23870" />
-<img width="3650" height="1425" alt="image" src="https://github.com/user-attachments/assets/2e11a93a-0108-4f8e-bf3a-16112960d8dd" />
 
 ---
 
